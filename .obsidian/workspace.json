@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "JOURNAL.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -185,6 +185,10 @@
   },
   "active": "8672fe709483b175",
   "lastOpenFiles": [
+    "Images/Journal2.png",
+    "PCB/digital-name-tag-backups/digital-name-tag-2026-05-06_103453.zip",
+    "PCB/digital-name-tag-backups/digital-name-tag-2026-05-06_102103.zip",
+    "PCB/#auto_saved_files#",
     "Images/journal1.png",
     "JOURNAL.md",
     "Images/journal1.png.part",
