@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "JOURNAL.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -185,8 +185,12 @@
   },
   "active": "8672fe709483b175",
   "lastOpenFiles": [
-    "README.md",
+    "Images/journal1.png",
     "JOURNAL.md",
+    "Images/journal1.png.part",
+    "Pasted image 20260505222657.png",
+    "README.md",
+    "Images/Pasted image 20260505222630.png",
     "Images"
   ]
 }
