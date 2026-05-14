@@ -20,4 +20,11 @@ I decided to switch from having the custom devboard and the name tag be two sepe
 
 ![](Images/Journal3.png)
 
-**Total time spent: 1**
+**Total time spent: 1h**
+
+# May 14, 2026: Finished layout and started on routing
+
+i got around to working on this again and got the layout done. i have mostly got routing done and am now just working on fixing DRC errors. I don't really have much more to say other then working out wards from the rp2040 is a lot easier then working in towards the rp2040.
+
+
+![](Images/Journal4.png)
