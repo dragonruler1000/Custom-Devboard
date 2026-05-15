@@ -11165,6 +11165,15 @@
 				(hide yes)
 			)
 		)
+		(property "lcsc part #" "C22369193"
+			(at 63.5 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a6690f9a-60c7-4f1c-8150-d9a9f0fd4244")
 		)
