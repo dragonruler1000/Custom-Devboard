@@ -28,7 +28,10 @@ i got around to working on this again and got the layout done. i have mostly got
 
 
 ![](Images/Journal4.png)
+**Total Time Spend: 4h**
+# May 14th, 2026 Pt2: Fixed the DRC errors and put together BOM
 
-# May 14th, 2026 Pt2: Fixed the DRC errors
+I went though and fixed all of the DRC errors which was mostly just making sure that the ground plane got connected to everything that needed it and that the ground plane was connected everywhere. I also set up my BOM so now i have all the prices for the indivsual parts and shipping for the one part that is coming from digikey sense getting it from lcsc is going to cost more in shipping then i save on a slightly cheaper part.
 
-I went though and fixed all of the DRC errors 
+![](Images/Journal6.png)
+**Time spent: 4h**
