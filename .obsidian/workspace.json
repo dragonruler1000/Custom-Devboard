@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JOURNAL.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JOURNAL"
+              "title": "README"
             }
           }
         ]
@@ -183,8 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "3036d08209b5a732",
+  "active": "8672fe709483b175",
   "lastOpenFiles": [
+    "JOURNAL.md",
+    "README.md",
+    "Images/PCB.png",
+    "Images/PCB.png.part",
+    "PCB/~digital-name-tag.kicad_pcb.lck",
+    "PCB/~digital-name-tag.kicad_pro.lck",
+    "Images/Journal7.png",
+    "Images/lu3715z1.tmp",
     "Images/Journal6.png",
     "Images/lu376f09k.tmp",
     "PCB/production/digital-name-tag.zip",
@@ -192,18 +200,12 @@
     "PCB/production/positions.csv",
     "PCB/production/designators.csv",
     "PCB/production/netlist.ipc",
-    "PCB/production/backups/digital-name-tag_2026-05-14_21-51-59.zip",
-    "PCB/production/backups",
-    "PCB/production",
-    "PCB/fabrication-toolkit-options.json",
     "Images/Journal5.png",
     "Images/Journal4.png",
     "Images/Journal3.png",
-    "JOURNAL.md",
     "Images/Journal2.png",
     "Images/journal1.png",
     "Pasted image 20260505222657.png",
-    "README.md",
     "Images/Pasted image 20260505222630.png"
   ]
 }
