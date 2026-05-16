@@ -1,7 +1,7 @@
 # Primortia Devboard
 This is a custom rp2040 devboard that i wanted to make so i could use a custom board instead of a pico for a few projects and because i thought that it would be a fun challange and a way to test my knowlage of how to route a trace properly. sense it is PCBA the only parts that are soldered after it arrives is the pins on the edges.
 
-![keyboard PCB](images/PCB.png)
+![keyboard PCB](Images/PCB.png)
 
 
 BOM:
