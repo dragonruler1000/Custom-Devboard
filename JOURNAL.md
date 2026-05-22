@@ -41,3 +41,4 @@ I went though and fixed all of the DRC errors which was mostly just making sure 
 I got around to finishing the BOM and get the price of the pcb from JLCPCB. getting the PCB added to my cart was fun though sense i basicly had add the parts from scratch to the bom which wasn't to bad sense that did help me reduce cost because JLCPCB did sudject basic parts that fit what i needed then i also had to adjust the placement of the of the componesnts sense the rotation was off for a couple of them and the rotation and placement of the usb-c port was off so i needed to fix that at least the fabrication output plugin for kicad made it quicker still.
 
 ![](Images/Journal7.png)
+**time spent: 1h**
