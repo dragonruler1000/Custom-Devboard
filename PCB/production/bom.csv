@@ -4,7 +4,7 @@
 "C13, C14",0603,2,10uF,
 "C15, C16",0402,2,33pF,
 C18,0402,1,1nf,
-D1,0603,1,LED,
+D1,0603,1,Green,
 J1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,USB_C_Receptacle_USB2.0_14P,
 "J2, J3",PinHeader_1x20_P2.54mm_Vertical,2,Conn_01x20,
 J4,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03,
